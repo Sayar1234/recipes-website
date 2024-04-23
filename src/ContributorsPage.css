@@ -1,0 +1,45 @@
+.contributors-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.contributors-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.contributor-card {
+    width: 250px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.contributor-card:hover {
+    transform: translateY(-5px);
+}
+
+.contributor-card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.contributor-info {
+    margin-top: 10px;
+}
+
+.contributor-info h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.contributor-info p {
+    font-size: 14px;
+    color: #666;
+}
