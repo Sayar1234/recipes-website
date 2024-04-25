@@ -13,10 +13,17 @@ function ContributorsPage() {
                     </div>
                 </div>
                 <div className="contributor-card">
-                    <img src="https://instagram.fmaa12-1.fna.fbcdn.net/v/t51.2885-15/318478516_518246290263782_2793123973634261762_n.jpg?stp=c0.102.640.640a_dst-jpg_e15_s150x150&_nc_ht=instagram.fmaa12-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=qrjucPkjtWIAb6hwb0n&edm=AGXveE0BAAAA&ccb=7-5&oh=00_AfCMadFXr4lPjIEUWrzncuZp5i7_2N_m5gs0JBIClb8TRA&oe=66295AAF&_nc_sid=cf751b" alt="Abhinav Singh" />
+                    <img src="https://media.licdn.com/dms/image/D5603AQH9o80PR-LSsQ/profile-displayphoto-shrink_100_100/0/1689654083984?e=1719446400&v=beta&t=xrk020iS_7XEy4x9v4S9J6z17wLGbazA7JcGfywuMsA" alt="Abhinav Singh" />
                     <div className="contributor-info">
                         <h2>Abhinav Singh</h2>
                         <p>Registration Number: 22BCT0239</p>
+                    </div>
+                </div>
+                <div className="contributor-card">
+                    <img src="https://media-maa2-2.cdn.whatsapp.net/v/t61.24694-24/359716019_316777697364448_8477230435482732013_n.jpg?ccb=11-4&oh=01_Q5AaICe_3d7KYNNzbjDGoLcJcBvYM9VIrzuv36sND__724E-&oe=66377CB4&_nc_sid=e6ed6c&_nc_cat=102" alt="Utkarsh Yadav" />
+                    <div className="contributor-info">
+                        <h2>Utkarsh Yadav</h2>
+                        <p>Registration Number: 22BCE3305</p>
                     </div>
                 </div>
             </div>
